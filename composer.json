@@ -1,0 +1,8 @@
+{
+    "name": "arkschools/jReject",
+    "description": "jQuery Browser Rejection Plugin",
+    "homepage": "http://jreject.turnwheel.com/",
+    "version": "master",
+    "require": {
+    }
+}
