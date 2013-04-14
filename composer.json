@@ -4,6 +4,5 @@
     "homepage": "http://jreject.turnwheel.com/",
     "version": "master",
     "require": {
-    },
-    "target-dir": "common/src/Common/Bundle/CommonBundle/Resources/public/third_party"
+    }
 }
